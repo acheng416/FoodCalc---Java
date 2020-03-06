@@ -17,4 +17,4 @@
   * Make the optimal solution also realistic
   * Implementation in C for manual memory management and support for multithreading
 ###### Screenshots:
-TBD
+![alt-text](Food Calc - Java.png)
