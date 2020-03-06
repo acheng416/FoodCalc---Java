@@ -15,5 +15,6 @@
   * User-inputted constraints
   * Custom nutrition data input from the user
   * Make the optimal solution also realistic
+  * Implementation in C for manual memory management and support for multithreading
 ###### Screenshots:
 TBD
