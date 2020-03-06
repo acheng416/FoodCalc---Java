@@ -1,5 +1,5 @@
 # FoodCalc---Java
-## Optimizes diet using linear programming
+## Optimizing diet using linear programming
 
 
 ###### Idea:
