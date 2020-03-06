@@ -7,7 +7,7 @@ My brother once asked me to give him a recommended diet because he was too lazy 
 
 1. **What I needed figure out**:
    * How to implement the algorithmns from class into Java
-   * How to get the nutritional data I needed to cover most diets
+   * How to get the nutritional data I needed to cover most diets and parse that info into my program
    * Which data structure to use to store the food items and their data
    * How to make the diet realistic and versatile
 
