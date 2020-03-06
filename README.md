@@ -3,6 +3,10 @@
 
 
 ###### Idea:
+My brother once asked me to give him a recommended diet because he was too lazy to calculate macro-nutrients for each meal. Instead of manually giving him the best diet I can think of for every day of the week, I decided to utilize what I learned in my linear optimization to do it instead. 
+
+1. What I needed:
+
 
 ###### Features:
   * Parses data from USDA website for over 8,000 food items and their nutritional content
@@ -17,7 +21,7 @@
   * Make the optimal solution also realistic
   * Implementation in C for manual memory management and support for multithreading
 ###### Screenshots:
-#### Example of loading food...
+#### Example of loading food:
 ![alt text](https://github.com/acheng416/FoodCalc---Java/blob/master/Food%20Calc%20-%20Java.png) 
 
 #### Example of an optimal solution to the constraints:
