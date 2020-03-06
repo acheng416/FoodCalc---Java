@@ -5,9 +5,11 @@
 ###### Idea:
 My brother once asked me to give him a recommended diet because he was too lazy to calculate macro-nutrients for each meal. Instead of manually giving him the best diet I can think of for every day of the week, I decided to utilize what I learned from my previous linear optimization class to do it instead. 
 
-1. What I needed to do:
-   * Implement the algorithmns from class into Java
-   * Figure out which data structure to use
+1. What I needed figure out:
+   * How to implement the algorithmns from class into Java
+   * How to get the nutritional data I needed to cover most diets
+   * Which data structure to use to store the food items and their data
+   * How to make the diet realistic and versatile
 
 ###### Features:
   * Parses data from USDA website for over 8,000 food items and their nutritional content
