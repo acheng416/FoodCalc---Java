@@ -14,5 +14,6 @@
   * Friendly gui for easy selection of food items
   * User-inputted constraints
   * Custom nutrition data input from the user
+  * Make the optimal solution also realistic
 ###### Screenshots:
 TBD
