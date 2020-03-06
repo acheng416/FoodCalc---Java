@@ -3,7 +3,7 @@
 
 
 ###### Idea:
-My brother once asked me to give him a recommended diet because he was too lazy to calculate macro-nutrients for each meal. Instead of manually giving him the best diet I can think of for every day of the week, I decided to utilize what I learned in my linear optimization to do it instead. 
+My brother once asked me to give him a recommended diet because he was too lazy to calculate macro-nutrients for each meal. Instead of manually giving him the best diet I can think of for every day of the week, I decided to utilize what I learned from my previous linear optimization class to do it instead. 
 
 1. What I needed:
 
