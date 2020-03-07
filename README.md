@@ -12,7 +12,10 @@ My brother once asked me to give him a recommended diet because he was too lazy 
    * How to make the diet realistic and versatile
 2. **How I tackled each problem**:
    * Implemented regular Simplex method, DualSimplex method, and Two-Phase method
-   * Downloaded the publically available USDA nutritional data of over 8,000 food items in the form of a .csv file
+   * Obtained the publically available USDA nutritional data of over 8,000 food items in the form of a .csv file and put each        column into their own .txt file
+   * I decided that a hashmap would allow me to have quick random access and insertion times, which I need to perform Simplex        method and also dynamically insert variables. The space trade-off of using a hashmap would not affect the program as much        because after adding artificial and slack variables, there would be no additional need to enlarge the hashmap.
+   * I implemented a function to add additional constraint equations, which would allow the user to define realistic bounds for      food items, as well as to give more customizability to desired foods and amounts.
+   
 ###### Features:
   * Parses data from USDA website for over 8,000 food items and their nutritional content
   * Implements **Simplex method**
