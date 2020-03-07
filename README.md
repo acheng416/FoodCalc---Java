@@ -10,7 +10,9 @@ My brother once asked me to give him a recommended diet because he was too lazy 
    * How to get the nutritional data I needed to cover most diets and parse that info into my program
    * Which data structure to use to store the food items and their data
    * How to make the diet realistic and versatile
-
+2. **How I tackled each problem**:
+   * Implemented regular Simplex method, DualSimplex method, and Two-Phase method
+   * Downloaded the publically available USDA nutritional data of over 8,000 food items in the form of a .csv file
 ###### Features:
   * Parses data from USDA website for over 8,000 food items and their nutritional content
   * Implements **Simplex method**
